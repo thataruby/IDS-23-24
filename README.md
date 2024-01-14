@@ -1,7 +1,7 @@
 # IDS-23-24
 
 # Homeworks
-| Homework | Circ. Project
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Homework | Solution | Circ. Project  |
+| ------------- | ------------- | ------------- |
+| Content Cell  | Content Cell  | ------------- |
+| Content Cell  | Content Cell  | ------------- |
