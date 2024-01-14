@@ -15,14 +15,13 @@
 # Labs
 | Lab | Solution | Explanation |
 | ------------- | ------------- | ------------- |
-| [0]() | [circ](https://github.com/thataruby/IDS-23-24/blob/main/LAB/LAB_RBN_2306173113_AthazahraNabilaRuby.circ) | [pdf]() | 
-| [1]() | [circ]() | [pdf]() | 
-| [2]() | [circ]() | [pdf]() | 
-| [3]() | [circ]() | [pdf]() | 
-| [4]() | [circ]() | [pdf]() | 
-| [5]() | [circ]() | [pdf]() | 
-| [6]() | [circ]() | [pdf]() | 
-| [7]() | [circ]() | [pdf]() | 
-| [8]() | [circ]() | [pdf]() | 
+| [1](https://docs.google.com/document/d/1kY_8B5ryVRoqnQjYx_DnLum6DSc37p1lUkufyNRgA4s/edit) | [circ](https://github.com/thataruby/IDS-23-24/blob/main/LAB/LAB1_RBN_2306173113_AthazahraNabilaRuby.circ) | - | 
+| [2](https://docs.google.com/document/d/1EVAL5QCVjYsSDn3MHaxRWRnlG3dRndNo6i6LWyDIuhA/edit) | [circ](https://github.com/thataruby/IDS-23-24/blob/main/LAB/LAB2_RBN_2306173113_AthazahraNabilaRuby.circ) | [pdf](https://github.com/thataruby/IDS-23-24/blob/main/LAB/LAB2_RBN_2306173113_AthazahraNabilaRuby.pdf) | 
+| [3](https://docs.google.com/document/d/1XtVCcxxt0wW0mkgQTw00hAIRvEarmJGu1c1Ma7FgkFw/edit) | [circ](https://github.com/thataruby/IDS-23-24/blob/main/LAB/LAB3_RBN_2306173113_AthazahraNabilaRuby.circ) | [pdf](https://github.com/thataruby/IDS-23-24/blob/main/LAB/LAB3_RBN_2306173113_AthazahraNabilaRuby.pdf) | 
+| [4](https://docs.google.com/document/d/1crL72XmVFH_6-avoWQ5AE84mWP0cJSiTsCP6I3p4qHo/edit) | [circ](https://github.com/thataruby/IDS-23-24/blob/main/LAB/LAB4_RBN_2306173113_AthazahraNabilaRuby.circ) | - | 
+| [5](https://docs.google.com/document/d/1own22Bb-Ag6INpTjkDn3zSFqpn9jASoT3yQRaOSbnZg/edit) | [circ](https://github.com/thataruby/IDS-23-24/blob/main/LAB/LAB5_RBN_2306173113_AthazahraNabilaRuby.circ) | [pdf](https://github.com/thataruby/IDS-23-24/blob/main/LAB/LAB5_RBN_2306173113_AthazahraNabilaRuby.pdf) | 
+| [6](https://docs.google.com/document/d/1hAQjiow4d09tMVl_bgbv5lTA4s85LRlcUNmCItFQDoM/edit) | [circ](https://github.com/thataruby/IDS-23-24/blob/main/LAB/LAB6_RBN_2306173113_AthazahraNabilaRuby.circ) | [pdf](https://github.com/thataruby/IDS-23-24/blob/main/LAB/LAB6_RBN_2306173113_AthazahraNabilaRuby.pdf) | 
+| [7](https://docs.google.com/document/d/1AGxQFkfYmwz6HsWS3Bi2x46voIubLxW3x4e3zXNbC0A/edit) | [circ](https://github.com/thataruby/IDS-23-24/blob/main/LAB/LAB7_RBN_2306173113_AthazahraNabilaRuby.circ) | [pdf](https://github.com/thataruby/IDS-23-24/blob/main/LAB/LAB7_RBN_2306173113_AthazahraNabilaRuby.pdf) | 
+| [8](https://docs.google.com/document/d/16H2QKREQ4easw4equXf_fvphjGH5Tx9VB0p8JUFKfJc/edit) | [circ](https://github.com/thataruby/IDS-23-24/blob/main/LAB/LAB8_RBN_2306173113_AthazahraNabilaRubycirc.circ) | [pdf](https://github.com/thataruby/IDS-23-24/blob/main/LAB/LAB8_RBN_2306173113_AthazahraNabilaRuby.pdf) | 
 
 
