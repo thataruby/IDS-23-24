@@ -14,7 +14,7 @@
 
 # Labs
 | Lab | Solution | Explanation |
-| [0]() | [circ]() | [pdf]() | 
+| [0]() | [circ](https://github.com/thataruby/IDS-23-24/blob/main/LAB/LAB_RBN_2306173113_AthazahraNabilaRuby.circ) | [pdf]() | 
 | [1]() | [circ]() | [pdf]() | 
 | [2]() | [circ]() | [pdf]() | 
 | [3]() | [circ]() | [pdf]() | 
