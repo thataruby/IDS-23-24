@@ -5,3 +5,9 @@
 | ------------- | ------------- | ------------- |
 | Content Cell  | Content Cell  | ------------- |
 | Content Cell  | Content Cell  | ------------- |
+
+# Labs
+| Lab | Solution | Explanation  | TA's Feedback |
+| ------------- | ------------- | ------------- | ------------- |
+| Content Cell  | Content Cell  | ------------- | ------------- |
+| Content Cell  | Content Cell  | ------------- | ------------- |
